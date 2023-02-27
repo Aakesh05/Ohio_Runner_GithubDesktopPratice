@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f4e697ff38b1dad4393d51bf7865a7cb
+  - enabled: 1
+    path: Assets/Scenes/Ohio Runner.unity
+    guid: 337d0aa73daf2bb438743adeb66157be
+  m_configObjects: {}
